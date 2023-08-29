@@ -10,7 +10,7 @@
 - 🌱 Exploring AI through training and building various models - Mask-RCNN for instance segmentation, LSTMs for time-series predictions, I can also code Transformer from scratch using Torch.
 - 🖌️ Crafting curve editor from basics with PyQt6.
 - 🔫 Game development in Unreal Engine 5.
-- 💻 Proficient in coding in C and other low-level. Not a stranger to functional languages as well.
+- 💻 Proficient in coding in C and other low-level languages. Not a stranger to functional languages as well.
 - 🕵️‍♂️ Web scraping and task automation.
 
 📬 Let's connect! Reach me at [pslowiq@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/piotr-s%C5%82owik/).
