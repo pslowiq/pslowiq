@@ -29,7 +29,7 @@
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/ios/48/000000/wordpress.png" alt="WordPress" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://icons8.com/icon/25647/qt" alt="PyQt" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" /></span>
-<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="HuggingFace" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="HuggingFace" /></span>
 
 
 
