@@ -14,6 +14,24 @@
 - 🕵️‍♂️ Web scraping and task automation.
 
 📬 Let's connect! Reach me at [pslowiq@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/piotr-s%C5%82owik/).
+
 🛠️ Tech Stack:
-![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v2.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png) ![Lightning](https://avatars.githubusercontent.com/u/98025367?s=200&v=4) ![Selenium](https://img.icons8.com/color/48/000000/selenium-test-automation.png) ![Beautiful Soup](https://funthon.files.wordpress.com/2017/05/bs.png?w=772) ![Django](https://img.icons8.com/color/48/000000/django.png) ![WordPress](https://img.icons8.com/ios/48/000000/wordpress.png) ![PyQt](https://icons8.com/icon/25647/qt) ![Unreal Engine](https://img.icons8.com/color/48/000000/unreal-engine.png) ![HuggingFace](https://img.icons8.com/?size=512&id=BQ1lJP4geUqU&format=png)
+
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/98025367?s=48&v=4" alt="Lightning" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=48" alt="Beautiful Soup" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/ios/48/000000/wordpress.png" alt="WordPress" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/qt.png" alt="PyQt" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/personal-trainer-female.png" alt="HuggingFace" /></span>
+
+
+
+
 > "In the midst of chaos, there is also opportunity." - Sun Tzu
