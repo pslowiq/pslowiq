@@ -21,7 +21,7 @@
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/javascript--v2.png" alt="JavaScript" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /></span>
-<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4" alt="PyTorch" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/98025367?s=48&v=4" alt="Lightning" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=48" alt="Beautiful Soup" /></span>
@@ -29,7 +29,7 @@
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/ios/48/000000/wordpress.png" alt="WordPress" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://icons8.com/icon/25647/qt" alt="PyQt" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" /></span>
-<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/?size=512&id=BQ1lJP4geUqU&format=png" alt="HuggingFace" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="HuggingFace" /></span>
 
 
 
