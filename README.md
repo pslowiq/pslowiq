@@ -22,6 +22,8 @@
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/98025367?s=48&v=4" alt="Lightning" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/unreal-engine.png" alt="Unreal Engine" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/25720743?s=48&v=4" alt="HuggingFace" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/21206976?s=48&v=4" alt="Pandas" /></span>
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/288276?s=48&v=4" alt="Numpy" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/ios/48/000000/wordpress.png" alt="WordPress" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" alt="Selenium" /></span>
