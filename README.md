@@ -1,5 +1,4 @@
 ## CTO at 0101marketing | Engineer in CS
-### I make computers do what I want
 
 👋 Hey there! I'm Piotr Słowik, a tech enthusiast and CTO at 0101marketing, where I tackle WordPress issues, automate tasks with Python, and uncover digital insights.
 
