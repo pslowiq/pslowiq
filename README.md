@@ -6,7 +6,7 @@
 
 🚀 My journey involves:
 - 📊 Data and text generation using RNNs, LSTMs, Transformers.
-- 🌱 Exploring AI through training and building various models - Mask-RCNN for instance segmentation, LSTMs for time-series predictions, I can also code Transformer from scratch using Torch.
+- 🌱 Exploring AI through training and building various models - Mask-RCNN for instance segmentation, LSTMs for time-series predictions, I can also code Transformer from scratch using Torch and had expierience with JAX.
 - 🖌️ Crafting curve editor from basics with PyQt6.
 - 🔫 Game development in Unreal Engine 5.
 - 💻 Proficient in coding in C and other low-level languages. Not a stranger to functional languages as well.
@@ -16,6 +16,7 @@
 
 🛠️ Tech Stack:
 
+<span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/1481354?s=48&v=4" alt="Elixir" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/21003710?s=48&v=4" alt="PyTorch" /></span>
 <span style="display:inline-block; margin: 0 5px; height: 50px;"><img src="https://avatars.githubusercontent.com/u/98025367?s=48&v=4" alt="Lightning" /></span>
