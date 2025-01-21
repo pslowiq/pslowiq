@@ -1,16 +1,20 @@
-## CTO at 0101marketing | Engineer in CS
+## Full Stack Engineer at Securosys | Engineer in CS
 
-👋 Hey there! I'm Piotr Słowik, a tech enthusiast and CTO at 0101marketing, where I automate tasks and uncover digital insights.
+👋 Hey there! I'm Piotr Słowik, a tech enthusiast and Full Stack Engineer at Securosys, where I am developing Cloud Console - a cloud tool designed to connect to your CloudHSM partitions seamlessly.
 
 🎓 With a degree in Computer Science from Uniwersytet Wrocławski, I'm on the verge of completing my master's studies, ready to apply cutting-edge concepts to real-world challenges.
 
 🚀 My journey involves:
-- 📊 Data and text generation using RNNs, LSTMs, Transformers.
-- 🌱 Exploring AI through training and building various models - Mask-RCNN for instance segmentation, LSTMs for time-series predictions, I can also code Transformer from scratch using Torch and had expierience with JAX.
-- 🖌️ Crafting curve editor from basics with PyQt6.
-- 🔫 Game development in Unreal Engine 5.
-- 💻 Proficient in coding in C and other low-level languages. Not a stranger to functional languages as well.
-- 🕵️‍♂️ Web scraping and task automation.
+
+📊 Data and text generation using RNNs, LSTMs, and Transformers.
+🌱 Exploring AI through training and building various models – Mask-RCNN for instance segmentation, LSTMs for time-series predictions, and crafting Transformers from scratch using PyTorch. I've also gained experience with JAX.
+🖌️ Developing a curve editor from basics using PyQt6.
+🔫 Game development in Unreal Engine 5.
+💻 Proficient in coding with C and other low-level languages, while also comfortable with functional programming paradigms.
+🕵️‍♂️ Web scraping and task automation.
+🛠️ Skilled in backend and frontend development using different technologies.
+💡 Hubspot expert: cloned the Hubspot renderer with a fully mocked database for seamless local development.
+Always eager to tackle challenges, learn new technologies, and contribute to impactful projects! 🚀
 
 📬 Let's connect! Reach me at [pslowiq@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/piotr-s%C5%82owik/).
 
