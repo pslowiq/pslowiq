@@ -6,14 +6,14 @@
 
 🚀 My journey involves:
 
-📊 Data and text generation using RNNs, LSTMs, and Transformers.
-🌱 Exploring AI through training and building various models – Mask-RCNN for instance segmentation, LSTMs for time-series predictions, and crafting Transformers from scratch using PyTorch. I've also gained experience with JAX.
-🖌️ Developing a curve editor from basics using PyQt6.
-🔫 Game development in Unreal Engine 5.
-💻 Proficient in coding with C and other low-level languages, while also comfortable with functional programming paradigms.
-🕵️‍♂️ Web scraping and task automation.
-🛠️ Skilled in backend and frontend development using different technologies.
-💡 Hubspot expert: cloned the Hubspot renderer with a fully mocked database for seamless local development.
+- 📊 Data and text generation using RNNs, LSTMs, and Transformers.
+- 🌱 Exploring AI through training and building various models – Mask-RCNN for instance segmentation, LSTMs for time-series predictions, and crafting Transformers from scratch using PyTorch. I've also gained experience with JAX.
+- 🖌️ Developing a curve editor from basics using PyQt6.
+- 🔫 Game development in Unreal Engine 5.
+- 💻 Proficient in coding with C and other low-level languages, while also comfortable with functional programming paradigms.
+- 🕵️‍♂️ Web scraping and task automation.
+- 🛠️ Skilled in backend and frontend development using different technologies.
+- 💡 Hubspot expert: cloned the Hubspot renderer with a fully mocked database for seamless local development.
 Always eager to tackle challenges, learn new technologies, and contribute to impactful projects! 🚀
 
 📬 Let's connect! Reach me at [pslowiq@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/piotr-s%C5%82owik/).
