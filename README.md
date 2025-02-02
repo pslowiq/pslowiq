@@ -1,6 +1,6 @@
 ## Full Stack Engineer at Securosys | Engineer in CS
 
-👋 Hey there! I'm Piotr Słowik, a tech enthusiast and Full Stack Engineer at Securosys, where I am developing Cloud Console - a cloud tool designed to connect to your CloudHSM partitions seamlessly.
+👋 Hey there! I'm Piotr Słowik, a tech enthusiast and Full Stack Engineer at Securosys.
 
 🎓 With a degree in Computer Science from Uniwersytet Wrocławski, I'm on the verge of completing my master's studies, ready to apply cutting-edge concepts to real-world challenges.
 
